@@ -1,0 +1,42 @@
+/* 
+    Document   : style
+    Created on : 2015-06-30, 11:57:06
+    Author     : usager
+    Description:
+        Purpose of the stylesheet follows.
+*/
+
+body{
+    background-image: url(image.jpg); 
+    background-attachment: fixed;
+    margin-left:100px;
+}
+h2{
+    color : rgb(64,0,128);
+    border: 3px double;
+    border-radius: 10px;
+    box-shadow: 10px 10px 3px;
+    text-align : center;
+    font-size : 30px;
+}
+.information{
+    color : red
+}
+a{
+    color : rgb(128,64,64);
+    font-style: italic;
+    text-decoration: none
+}
+a:hover{
+   color : red;
+   text-decoration: underline; 
+}
+ul:hover{
+    font-size :large;
+    background-color: black;
+    color : white;
+    
+}
+p{
+    font-size: large;    
+}

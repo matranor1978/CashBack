@@ -1,0 +1,25 @@
+/* 
+    Document   : style2
+    Created on : 2015-06-30, 14:46:26
+    Author     : usager
+    Description:
+        Purpose of the stylesheet follows.
+*/
+
+body{
+    background-image: url(fond.jpg); 
+    background-attachment: fixed;
+    margin:120px;
+}
+a:hover{
+    color :fuchsia;
+    text-decoration: underline; 
+}
+p{
+    font-size: medium;    
+}
+
+.information{
+    color : black
+}
+

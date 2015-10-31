@@ -1,0 +1,40 @@
+
+    body {
+      font-family:Comic Sans MS;
+      padding: 5%;
+      background-image: url(image/picture.jpg);
+      color: yellow;    
+      width : 75%;
+      margin : auto;
+    }  
+    address ul {
+      list-style-type: none;
+      padding-left: 130px;  
+    }
+    nav ul li {
+      border : white dotted thin; 
+      margin-left: 5px;  
+    }
+    nav li {
+      display : inline-block;
+
+    }
+    nav ul {
+      width : 100%; 
+     padding-left:10px; 
+    }
+    .imageflottante {
+      float: left; 
+      width: 120px;
+      border: 3px white dashed;
+    }
+    h3 {
+      color: floralwhite;
+      box-shadow: 6px 6px 6px white inset;
+    }
+    a {    
+       text-decoration: none;
+       color : floralwhite        
+    }
+
+

@@ -1,0 +1,33 @@
+    body {
+       background-image: url(image/pic2.jpg);
+       color: white;
+       font-family:Verdana;    
+       width : 65%;
+    }
+    address ul {
+       list-style-type: none;
+       padding-left: 130px;
+    }
+    nav ul {
+       display : inline-block; 
+       list-style-type: none;
+       margin-top : 30px;    
+       width : 25%; 
+       position : fixed;
+       left : 0px;
+    }
+    .imageflottante {
+       float: left; 
+       width: 120px;
+    }     
+    a {
+       text-decoration: none;
+       color : sandybrown        
+    }
+    div {    
+       display : inline-block;   
+       padding-left: 400px;
+       width : 100%;
+       top : 0px;  
+    }
+

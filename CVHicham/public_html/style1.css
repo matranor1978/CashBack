@@ -1,0 +1,62 @@
+
+
+/* Élements de la page */
+
+#bloc_page {
+    width : 1400px;
+    height: 1400px;          
+}
+
+/* Header */
+
+header {
+    background: url('images/separateur7.jpg') repeat-y right;
+    float: left;
+    height: 1900px;
+}
+
+header h1 {
+    font-size : 2.0em;
+    font-style: italic;
+}
+
+#photo_nom {
+    text-align: center;
+}
+
+#face_twit_link {
+    text-align: center; 
+}
+ 
+/* Navigation */
+ 
+nav {
+    width: 500px;
+    height: 400px;
+    font-size: 1.5em;
+}
+
+nav ul {
+    list-style-type: none;
+    
+}
+
+nav li {   
+    margin-bottom: 20px;   
+}
+
+nav a {
+    text-decoration: none;
+    color: black;  
+}
+
+nav a:hover {
+    color: #760001;
+    border-bottom: 3px solid #760001;
+    font-style: italic;
+}
+
+section {
+    padding-left: 530px;
+    padding-top: 300px;
+}

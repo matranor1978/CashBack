@@ -1,0 +1,64 @@
+
+
+/* Élements de la page */
+
+body {
+    background: url('images/fond1.jpg')
+}
+
+#bloc_page {
+    width : 1400px;
+    margin : auto;        
+}
+
+/* Header */
+
+header {
+    background: url('images/separateur3.jpg') repeat-x bottom;
+}
+
+header h1 {
+    font-size : 1.6em;
+    font-style: italic;
+}
+
+#photo , header h1  {
+    display : inline-block;
+    
+}
+
+/* Navigation */
+ 
+nav {
+    display: inline-block;
+    width: 1400px;
+    text-align: right;
+}
+
+nav ul {
+    list-style-type: none;
+    text-align: right;
+}
+
+nav li {
+    display: inline-block;
+    margin-right: 15px;
+    margin-bottom: 15px;
+    text-align: right;
+}
+
+nav a {
+    text-decoration: none;
+    color: black;
+    font-size: 1.2em;
+}
+
+nav a:hover {
+    color: #760001;
+    border-bottom: 3px solid #760001;
+    font-style: italic;
+}
+
+#face_twit_link {
+    text-align: center;
+}
